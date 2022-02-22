@@ -12,4 +12,4 @@ You will have to perform the following operations:
 5. add your changes using `git add .` then commit using `git commit -m "your message"`
 6. Always pull from remote before pushing your changes
 7. push your changes to your remote branch using: `git push --set-upstream origin familyname-firstname`
- 
+8. Create a `pull request` 
